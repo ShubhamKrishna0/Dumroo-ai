@@ -1,0 +1,43 @@
+[
+  {
+    "admin_id": "A001",
+    "admin_name": "John Admin",
+    "access_code": "0000",
+    "access_scope": {
+      "grades": ["Grade 8"],
+      "classes": ["8A", "8B"],
+      "regions": ["North"]
+    }
+  },
+  {
+    "admin_id": "A002", 
+    "admin_name": "Sarah Manager",
+    "access_code": "0000",
+    "access_scope": {
+      "grades": ["Grade 7"],
+      "classes": ["7A", "7B"],
+      "regions": ["South"]
+    }
+  },
+    {
+    "admin_id": "A004", 
+    "admin_name": "Hydra",
+    "access_code": "0000",
+    "access_scope": {
+      "grades": ["Grade 7"],
+      "classes": ["7A", "7B"],
+      "regions": ["South"]
+    }
+  },
+  {
+    "admin_id": "A003",
+    "admin_name": "Mike Supervisor",
+    "access_code": "0000", 
+    "access_scope": {
+      "grades": ["Grade 9"],
+      "classes": ["9A", "9B"],
+      "regions": ["East"]
+    }
+  }
+  
+]

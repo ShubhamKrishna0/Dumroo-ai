@@ -1,0 +1,32 @@
+{
+  "app_config": {
+    "title": "Dumroo AI Admin Panel",
+    "subtitle": "Intelligent Educational Data Management System",
+    "pages": [
+      {"name": "AI Assistant", "icon": "robot"},
+      {"name": "My Students", "icon": "people"},
+      {"name": "Settings", "icon": "gear"}
+    ],
+    "quick_actions": [
+      {"label": "Homework Status", "query": "Which students haven't submitted their homework yet?"},
+      {"label": "Performance Data", "query": "Show me performance data from last week"},
+      {"label": "Upcoming Quizzes", "query": "List all upcoming quizzes"},
+      {"label": "Average Scores", "query": "What's the average quiz score in my classes?"}
+    ],
+    "suggestions": [
+      "Show me students with quiz scores below 75",
+      "Which students haven't submitted homework?",
+      "List students who need extra support",
+      "What's the class average for quiz scores?"
+    ],
+    "example_queries": [
+      "Which students haven't submitted their homework yet?",
+      "Show me performance data for my grade from last week",
+      "List all upcoming quizzes scheduled for next week",
+      "What's the average quiz score in my classes?",
+      "Show me students with quiz scores below 75",
+      "Which students need additional support?",
+      "Generate a performance summary for my region"
+    ]
+  }
+}
