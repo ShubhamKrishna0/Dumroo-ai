@@ -21,15 +21,15 @@ This project demonstrates an AI-powered admin panel built for Dumroo.ai that all
 
 ## 🚀 Live Demo
 
-![Live App Demo](live_app/dashboard.png)
+![Live App Demo](live_app_image/main_dash_board.png)
 
 ### 📱 Responsive Design
 | Desktop View | Mobile View |
 |--------------|-------------|
-| ![Desktop](live_app/desktop_view.png) | ![Mobile](live_app/mobile_view.png) |
+| ![Desktop](live_app_image/after_pass_key.png) | ![Mobile](live_app_image/with_out_pass_key.png) |
 
 ### 🤖 AI Assistant in Action
-![AI Chat Interface](live_app/ai_chat.png)
+![AI Chat Interface](live_app_image/real_time_data.png)
 
 
 
@@ -98,7 +98,7 @@ Dumroo ai/
 │   ├── admin_roles.json         # Admin profiles (3 admins)
 │   └── config.json              # UI configuration
 
-├── live_app/                    # Application screenshots
+├── live_app_image/              # Application screenshots
 
 ├── requirements.txt             # Python dependencies
 ├── .env                         # API keys (create this)
@@ -177,7 +177,7 @@ The application will open in your browser at `http://localhost:8501`
 ## 📊 Features Demonstration
 
 ### 1. Natural Language Processing
-![NLP Demo](live_app/nlp_processing.png)
+![NLP Demo](live_app_image/real_time_data.png)
 
 The AI engine processes natural language queries and converts them into structured data operations:
 
@@ -186,7 +186,7 @@ The AI engine processes natural language queries and converts them into structur
 - **Context Awareness**: Maintains conversation history for follow-ups
 
 ### 2. Role-Based Data Access
-![Access Control](live_app/access_control.png)
+![Access Control](live_app_image/with_out_pass_key.png)
 
 Each admin sees only their assigned data:
 - John Admin: 4 Grade 8 students in North region
@@ -194,7 +194,7 @@ Each admin sees only their assigned data:
 - Mike Supervisor: 2 Grade 9 students in East region
 
 ### 3. Interactive Analytics Dashboard
-![Analytics](live_app/analytics_dashboard.png)
+![Analytics](live_app_image/main_dash_board.png)
 
 Real-time metrics and insights:
 - Student count and homework completion rates
@@ -203,7 +203,7 @@ Real-time metrics and insights:
 - Class-wise performance breakdowns
 
 ### 4. Agent-Style Conversations
-![Conversation](live_app/conversation_flow.png)
+![Conversation](live_app_image/after_pass_key.png)
 
 Context-aware follow-up handling:
 - Maintains conversation history
