@@ -2,7 +2,7 @@
 
 **AI-Powered Educational Admin System with Natural Language Querying & Role-Based Access Control**
 
-[![Python](img/python.png)](https://python.org) [![Streamlit](img/streamlit.png)](https://streamlit.io) [![LangChain](img/langchain.png)](https://langchain.com) [![OpenAI](img/openai.png)](https://openai.com)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org) [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io) [![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://langchain.com) [![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
 
 ## 📋 Project Overview
 
@@ -31,11 +31,7 @@ This project demonstrates an AI-powered admin panel built for Dumroo.ai that all
 ### 🤖 AI Assistant in Action
 ![AI Chat Interface](live_app/ai_chat.png)
 
-## 🎥 Video Demonstration
 
-[![Video Demo](video/thumbnail.png)](video/demo_video.mp4)
-
-*Click to watch the full system demonstration*
 
 ## 🏗️ System Architecture
 
@@ -71,7 +67,6 @@ This project demonstrates an AI-powered admin panel built for Dumroo.ai that all
 ## 🛠️ Tech Stack
 
 ### Core Technologies
-![Tech Stack](img/tech_stack_overview.png)
 
 | Category | Technology | Purpose |
 |----------|------------|---------|
@@ -102,9 +97,9 @@ Dumroo ai/
 │   ├── students_data.json       # Student records (8 students)
 │   ├── admin_roles.json         # Admin profiles (3 admins)
 │   └── config.json              # UI configuration
-├── img/                         # Technology logos and images
+
 ├── live_app/                    # Application screenshots
-├── video/                       # Demo video files
+
 ├── requirements.txt             # Python dependencies
 ├── .env                         # API keys (create this)
 ├── run_app.py                   # Application launcher
