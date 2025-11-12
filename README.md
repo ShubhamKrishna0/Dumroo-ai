@@ -21,15 +21,13 @@ This project demonstrates an AI-powered admin panel built for Dumroo.ai that all
 
 ## 🚀 Live Demo
 
-![Live App Demo](./live_app_image/main_dash_board.png)
+![Main Dashboard](./live_app_image/main_dash_board.png)
 
-### 📱 Responsive Design
-| Desktop View | Mobile View |
-|--------------|-------------|
-| ![Desktop](./live_app_image/after_pass_key.png) | ![Mobile](./live_app_image/with_out_pass_key.png) |
+![After Pass Key](./live_app_image/after_pass_key.png)
 
-### 🤖 AI Assistant in Action
-![AI Chat Interface](./live_app_image/real_time_data.png)
+![Real Time Data](./live_app_image/real_time_data.png)
+
+![Without Pass Key](./live_app_image/with_out_pass_key.png)
 
 
 
@@ -176,39 +174,9 @@ The application will open in your browser at `http://localhost:8501`
 
 ## 📊 Features Demonstration
 
-### 1. Natural Language Processing
-![NLP Demo](./live_app_image/real_time_data.png)
+## 📊 Features Demonstration
 
-The AI engine processes natural language queries and converts them into structured data operations:
-
-- **Intent Recognition**: Identifies query type (homework, performance, analytics)
-- **Entity Extraction**: Extracts grades, dates, score thresholds
-- **Context Awareness**: Maintains conversation history for follow-ups
-
-### 2. Role-Based Data Access
-![Access Control](./live_app_image/with_out_pass_key.png)
-
-Each admin sees only their assigned data:
-- John Admin: 4 Grade 8 students in North region
-- Sarah Manager: 2 Grade 7 students in South region  
-- Mike Supervisor: 2 Grade 9 students in East region
-
-### 3. Interactive Analytics Dashboard
-![Analytics](./live_app_image/main_dash_board.png)
-
-Real-time metrics and insights:
-- Student count and homework completion rates
-- Average quiz scores and performance trends
-- Students requiring academic support
-- Class-wise performance breakdowns
-
-### 4. Agent-Style Conversations
-![Conversation](./live_app_image/after_pass_key.png)
-
-Context-aware follow-up handling:
-- Maintains conversation history
-- Understands references to previous queries
-- Provides contextual responses and recommendations
+The AI engine processes natural language queries and converts them into structured data operations with intent recognition, entity extraction, and context awareness. Each admin sees only their assigned data with strict role-based access control. The system provides real-time analytics, interactive dashboards, and agent-style conversations with context-aware follow-up handling.
 
 ## 🔧 Configuration
 
